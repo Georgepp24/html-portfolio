@@ -1,0 +1,78 @@
+body {
+  text-align: center;
+  background-color: #283149;
+}
+
+h1 {
+  font-family: 'Caveat', cursive;
+  color:#DBEDF3;
+  font-size:6rem;
+  text-shadow: 5px 0 purple;
+}
+
+footer {
+  color: #DBEDF3;
+  font-family: sans-serif;
+}
+
+.set {
+    margin: 10% auto;
+}
+
+.sound{
+  border-radius: 15px;
+  text-shadow: 5px 0 #DBEDF3;
+  display:inline-block;
+  color:purple;
+  border: 10px solid#404B69;
+  font-size: 5rem;
+  outline: none;
+  font-family: 'Arvo', cursive;
+  font-weight: 900;
+  text-align: center;
+  width: 150px;
+  height: 200px;
+  margin: 10px;
+  background-color: white;
+
+}
+
+.x{
+  background-image: url(images/r6.png);
+}
+
+.z{
+  background-image: url(images/tracer.png);
+}
+
+.c{
+  background-image: url(images/mt10.png);
+}
+
+.v{
+  background-image: url(images/aprilia.png);
+}
+
+.b{
+  background-image: url(images/cbr.png);
+}
+
+.n{
+  background-image: url(images/ducati.png);
+}
+
+.m{
+  background-image: url(images/h2.png);
+}
+
+.l{
+  background-image: url(images/hayabusa.png);
+}
+
+.a{
+  background-image: url(images/tate.png);
+}
+
+.s{
+  background-image: url(images/lia.jpeg);
+}
